@@ -183,7 +183,7 @@ Horizontal Rule:
 ``` markdown
 Comment:
 
-<!-- This is a comment --> (it will no be shown)
+<!-- This is a comment --> (it will not be shown)
 ```
 
 <!-- This is a comment -->
@@ -268,11 +268,10 @@ term
 - [ ] Update the website
 - [ ] Contact the media 
 ```
-<ul>
-  <li><input type="checkbox"> Tarea 1</li>
-  <li><input type="checkbox"> Tarea 2</li>
-  <li><input type="checkbox"> Tarea 3</li>
-</ul>
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
 
 ---
 <br>
