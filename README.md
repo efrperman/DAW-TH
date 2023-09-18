@@ -4,9 +4,9 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
 
 ## Acceso Rápido
 
-- [00 MARKDOWN](./00%20MARKDOWN/00%20Introducción.md)
+- [00 MARKDOWN](./00%20MARKDOWN/)
   1. [Introducción a Markdown](./00%20MARKDOWN/00%20Introducción.md)
-  2. [Sintaxis de Markdown](./01%20MARKDOWN/00%20Sintaxis.md)
+  2. [Sintaxis de Markdown](./00%20MARKDOWN/01%20Sintaxis.md)
    
 - Más proximamente...
 <!-- - [01 HTML](./01%20HTML/README.md)
