@@ -308,7 +308,7 @@ término
 ``` markdown
 - [x] Escribir la descripción
 - [x] Actualizar la web
-- [] Contactar al cliente
+- [ ] Contactar al cliente
 ```
 
 - [x] Escribir la descripción
