@@ -335,9 +335,9 @@ Emoji:
 ``` markdown
 Resaltado de Texto:
 
-Quiero resaltar ==estas palabras==. 
+Quiero resaltar `estas palabras`. 
 ```
-Quiero resaltar ==estas palabras==. 
+Quiero resaltar `estas palabras`. 
 
 ---
 <br>
