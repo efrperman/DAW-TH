@@ -6,8 +6,8 @@ En este curso de PHP, es esencial seguir algunas convenciones y buenas práctica
 
 - Los nombres de **variables**, **funciones**, **métodos** y **clases** deben estar en **inglés**.
 - Los nombres de los **archivos** y **directorios** también deben estar en **inglés**.
-- Cada archivo PHP debe incluir comentarios **phpDoc** con las etiquetas @**autor** y @**version**.
-- Cada **clase** y **método** también debe incluir estos comentarios **phpDoc**.
+- Cada archivo PHP debe incluir comentarios **PHPDoc** con, al menos, las etiquetas @**autor** y @**version**.
+- Cada **clase** y **método** también debe incluir comentarios **PHPDoc**.
 - En caso de tener **elementos complejos**, asegúrate de proporcionar **comentarios** adecuados.
 
 ## PHP: Un vistazo rápido
@@ -25,8 +25,9 @@ Los `archivos.php` se denominan ***scripts*** y pueden estar compuestos por:
 - Solo **HTML**. 
 - Solo **PHP**.
 - **PHP** que además genere **HTML**.
-- Una **combinación** de lo anterior.
+- Una **combinación** de todo lo anterior.
 
+<br>
 
 Para **evitar** el **almacenamiento en caché** de las páginas, puedes: 
 
@@ -40,15 +41,17 @@ Para **evitar** el **almacenamiento en caché** de las páginas, puedes:
 
 - Borrar la caché del navegador (`CTRL`+ `SHIFT`+ `SUPR` en Firefox).
 
+<br>
 
 Puedes **imprimir** contenido en PHP de estas tres formas:
 
 - `echo expression`
 - `print expression`
-- `<?= $nameOfVariable ?>`, que es lo mismo que `<?php echo $nameOfVar ?>``.
+- `<?= $nameOfVariable ?>`, que es lo mismo que `<?php echo $nameOfVariable ?>`.
 
 > No utilizamos paréntesis con `echo` y `print` puesto que **no** son **funciones**.
 
+<br>
 
 Por último, te encuenta que: 
 
@@ -56,7 +59,7 @@ Por último, te encuenta que:
 - Para **concatenar** cadenas, se utiliza el operador **`'.'`**.
 - Se recomienda usar comillas simples **`''`** para declarar **cadenas**.
 - Puedes utilizar la **secuencia** de **escape** **`'\'`** para anular un símbolo reservado.
-- Debes de utiliza siempre **rutas absoulutas**.
+- Debes de utilizar siempre **rutas absoulutas**.
 
 
 ## Comentarios
@@ -65,7 +68,7 @@ Con los comentarios podrás **documentar** y hacer más **comprensible** tu cód
 
 - Comentarios en **una línea**:
 ``` php
-// Este es un comentario de una línea.
+// Este es un comentario en una línea.
 ```
 <br>
 
@@ -77,7 +80,7 @@ Con los comentarios podrás **documentar** y hacer más **comprensible** tu cód
 */
 ```
 
- Ten en cuenta que los comentarios PHP no aparecerán en el HTML final, mientras que los comentarios HTML (`<!-- ... -->`), sí.
+> Ten en cuenta que los comentarios PHP **no aparecerán** en el HTML final, mientras que los comentarios HTML (`<!-- ... -->`), **sí**.
 
 <br>
 
@@ -97,7 +100,7 @@ Con los comentarios podrás **documentar** y hacer más **comprensible** tu cód
 
 Se recomienda agregar comentarios PHPDoc mientras programas tu código en:
 
-- cada archivo`.php`
+- cada `archivo.php`
 - includes
 - clases e interfaces
 - propiedades de las clases
@@ -111,7 +114,7 @@ Para generar documentación automáticamente, puedes utilizar [phpDocumentor](ht
     touch directorioProyecto 'phpDocumentor.phar'. 
     php 'phpDocumentor.phar' -d . -t 'docs/api'.  
 ```
-> Esto creará dentro la ruta `docs/api` generando la documentación en HTML.
+> Esto creará dentro del proyecto, la ruta `docs/api` generando la documentación en HTML.
 
 
 ## Inclusión de ficheros externos
