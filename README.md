@@ -57,8 +57,14 @@ A continuación, se presenta una lista con los recursos que pretendo ir subiendo
 ### 04 PHP
 
 - [x] 00 Introducción a PHP
-- [ ] Más proximamente...
-
+- [x] 01 Tipos de Datos
+- [x] 02 Variables y Constantes
+- [x] 03 Fecha y Hora
+- [x] 04 Operadores
+- [x] 05 Ámbito de las Variables
+- [x] 05 Estructuras de Control
+- [ ] Más próximamente...
+  
 ### 05 JAVA
 
 - [ ] Proximamente...
