@@ -10,7 +10,12 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
 
 - [04 PHP](./04%20PHP/)
   1. [Introducción a PHP](./04%20PHP/00%20Introducción.md)
-  <!-- 2. [TEMA](./04%20PHP/TEMA.md) -->
+  2. [Tipos de Datos](./04%20PHP/01%20Tipos%20de%20Datos.md)
+  3. [Variables y Constantes](./04%20PHP/02%20Variables%20y%20Constantes.md)
+  4. [Fecha y Hora](./04%20PHP/03%20Fecha%20y%20Hora.md)
+  5. [Operadores](./04%20PHP/04%20Operadores.md)
+  6. [Ámbito de las Variables](./04%20PHP/05%20%C3%81mbito%20de%20las%20Variables.md)
+  7. [Estructuras de Control](./04%20PHP/06%20Estructuras%20de%20Control.md)
       
 - Más proximamente...
 <!-- - [01 HTML](./01%20HTML/README.md)
