@@ -7,20 +7,21 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
 - [00 MARKDOWN](./00%20MARKDOWN/)
   1. [Introducción a Markdown](./00%20MARKDOWN/00%20Introducción.md)
   2. [Sintaxis de Markdown](./00%20MARKDOWN/01%20Sintaxis.md)
-   
+
+- [04 PHP](./04%20PHP/)
+  1. [Introducción a PHP](./04%20PHP/00%20Introducción.md)
+  <!-- 2. [TEMA](./04%20PHP/TEMA.md) -->
+      
 - Más proximamente...
 <!-- - [01 HTML](./01%20HTML/README.md)
 - [02 CSS](./02%20CSS/README.md)
 - [03 JS](./03%20JS/README.md)
-- [04 PHP](./04%20PHP/README.md)
 - [05 JAVA](./05%20JAVA/README.md)
 - [06 MYSQL](./06%20MYSQL/README.md) -->
 
 ## Tabla de Contenidos
 
-A continuación, se presenta una lista con los recursos que pretendo ir subiendo en este repositorio.
-
-Cada directorio tendrá su propio `00 Introducción.md` donde se proporcionará más detalle sobre el contenido y los archivos específicos:
+A continuación, se presenta una lista con los recursos que pretendo ir subiendo en este repositorio. Iré agregando más contenido y marcando las casillas en la medida que me sea posible:
 
 ### 00 MARKDOWN
 
@@ -50,10 +51,8 @@ Cada directorio tendrá su propio `00 Introducción.md` donde se proporcionará 
 
 ### 04 PHP
 
-- [ ] Proximamente...
-<!-- - [ ] Sintaxis de PHP
-- [ ] Uso de bases de datos con PHP
-- [ ] Desarrollo web con PHP -->
+- [x] 00 Introducción a PHP
+- [ ] Más proximamente...
 
 ### 05 JAVA
 
@@ -72,4 +71,4 @@ Cada directorio tendrá su propio `00 Introducción.md` donde se proporcionará 
 ---
 <br>
 
-¡Gracias por visitar mi repositorio! Estaré agregando más contenido y marcando las casillas a medida que me sea posible.
+¡Gracias por visitar mi repositorio!
