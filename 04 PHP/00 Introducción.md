@@ -108,10 +108,9 @@ Se recomienda agregar comentarios PHPDoc mientras programas tu código en:
 - funciones y métodos
 - constantes 
  
-Para generar documentación automáticamente, puedes utilizar [phpDocumentor](https://phpdoc.org/) (consultar las etiquetas disponibles [aquí](https://docs.phpdoc.org/guide/references/phpdoc/tags/index.html)):
+Para generar la documentación automáticamente, puedes utilizar [phpDocumentor](https://phpdoc.org/) (consultar las etiquetas disponibles [aquí](https://docs.phpdoc.org/guide/references/phpdoc/tags/index.html)). Primero, **incluye** el archivo ['phpDocumentor.phar'](https://github.com/phpDocumentor/phpDocumentor/releases) en el directorio del **proyecto**. Y luego, ejecuta el siguiente comando:
 
 ``` bash
-    touch directorioProyecto 'phpDocumentor.phar'. 
     php 'phpDocumentor.phar' -d . -t 'docs/api'.  
 ```
 > Esto creará dentro del proyecto, la ruta `docs/api` generando la documentación en HTML.
