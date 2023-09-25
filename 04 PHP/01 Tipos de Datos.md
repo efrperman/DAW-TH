@@ -18,4 +18,3 @@
 | `true` o `TRUE`                                                          | `false` o `FALSE`                     |
 | Cualquier número entero o decimal, positivo o negativo distinto de cero. | `0`, `-0`, `0.0`, `-0.0`, `'0'`, `''` |
 | Cualquier cadena que no sea cero o cadena vacía.                         | `null`                                |
- 

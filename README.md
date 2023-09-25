@@ -8,6 +8,9 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
   1. [Introducción a Markdown](./00%20MARKDOWN/00%20Introducción.md)
   2. [Sintaxis de Markdown](./00%20MARKDOWN/01%20Sintaxis.md)
 
+- [03 JS](./04%20PHP/)
+  1. [Introducción a JS](./03%20JS/00%20Introducción.md)
+
 - [04 PHP](./04%20PHP/)
   1. [Introducción a PHP](./04%20PHP/00%20Introducción.md)
   2. [Tipos de Datos](./04%20PHP/01%20Tipos%20de%20Datos.md)
@@ -50,10 +53,15 @@ A continuación, se presenta una lista con los recursos que pretendo ir subiendo
 
 ### 03 JS
 
-- [ ] Proximamente...
-<!-- - [ ] Variables y tipos de datos
-- [ ] Control de flujo
-- [ ] Funciones y objetos -->
+- [x] Introducción a JS 
+- [ ] Tipos de Datos
+- [ ] Variables y Constantes
+- [ ] Estructuras de Control
+- [ ] Funciones
+- [ ] Manejo de Errores
+- [ ] Buenas Prácticas
+- [ ] Más proximamente...
+
 
 ### 04 PHP
 
