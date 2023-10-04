@@ -20,6 +20,8 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
   6. [Ámbito de las Variables](./04%20PHP/05%20%C3%81mbito%20de%20las%20Variables.md)
   7. [Estructuras de Control](./04%20PHP/06%20Estructuras%20de%20Control.md)
   8. [Mapas](./04%20PHP/07%20Mapas.md)
+  9. [Funciones](./04%20PHP/08%20Funciones.md)
+  10. [Estándares Recomendados](./04%20PHP/09%20Estándares%20Recomendados.md)
       
 - Más proximamente...
 <!-- - [01 HTML](./01%20HTML/README.md)
@@ -73,8 +75,8 @@ A continuación, se presenta una lista con los recursos que pretendo ir subiendo
 - [x] 05 Ámbito de las Variables
 - [x] 06 Estructuras de Control
 - [x] 07 Mapas
-- [ ] 08 Funciones
-- [ ] 09 Estándares Recomendados
+- [x] 08 Funciones
+- [x] 09 Estándares Recomendados
 - [ ] Más próximamente...
   
 ### 05 JAVA
