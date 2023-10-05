@@ -10,6 +10,8 @@ Este repositorio contendrá los apuntes sobre las tecnologías que vaya aprendie
 
 - [03 JS](./04%20PHP/)
   1. [Introducción a JS](./03%20JS/00%20Introducción.md)
+  2. [Tipos de Datos](./03%20JS/01%20Tipos%20de%20Datos.md)
+  3. [Variables y Constantes](./03%20JS/02%Variables%20y%20Constantes.md)
 
 - [04 PHP](./04%20PHP/)
   1. [Introducción a PHP](./04%20PHP/00%20Introducción.md)
@@ -56,8 +58,8 @@ A continuación, se presenta una lista con los recursos que pretendo ir subiendo
 ### 03 JS
 
 - [x] Introducción a JS 
-- [ ] Tipos de Datos
-- [ ] Variables y Constantes
+- [x] Tipos de Datos
+- [x] Variables y Constantes
 - [ ] Estructuras de Control
 - [ ] Funciones
 - [ ] Manejo de Errores
